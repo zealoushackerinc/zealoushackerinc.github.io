@@ -13,4 +13,4 @@
 	You fill out a short questionnaire about you and the product you'd like to bring to market.
 I get back to you if I determine that we may be able to work together to help you get your idea to an MVP.
 We schedule a 30 minute conversation to dive deeper into each question of the questionnaire.
-If there's still a fit, we draft our an iterative work plan based on your budget, and hit the ground running.
+If there's still a fit, we draft out an iterative work plan based on your budget, and hit the ground running.
