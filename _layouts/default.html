@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="assets/ico/favicon.png">
 
-    <title>Zealoushacker, Inc.</title>
+    <title>{{ page.title }}</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -58,12 +58,17 @@
 	<section id="home" name="home"></section>
 	<div id="headerwrap">
 		<div class="container">
-			<div class="col-lg-2"></div>
-			<div class="col-lg-8">
-        <!-- <img src="assets/img/logo.png"> -->
-				<h1>Zealoushacker, Inc.</h1>
-				<h4>MVP and Product Development Consulting</h4>
-			</div>
+      <div class="row">
+        <div class="col-lg-2"></div>
+        <div class="col-lg-8">
+          <!-- <img src="assets/img/logo.png"> -->
+          <h1>Zealoushacker, Inc.</h1>
+          <h4>MVP and Product Development Consulting</h4>
+        </div>
+      </div>
+      <div class="jumbotron">
+        {{ content }}
+      </div>
 		</div><!-- /container -->
 	</div><!-- /headerwrap -->
 	
