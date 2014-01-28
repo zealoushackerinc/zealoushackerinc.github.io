@@ -393,3 +393,14 @@ input.gn-search:focus {
   text-align: center;
   background-color:transparent;
 }
+
+/* ==========================================================================
+   Media queries
+   ========================================================================== */
+
+/* Small devices (620px and below) */
+@media (max-width: 620px) { 
+  .jumbotron {
+    font-size: 12px;
+  }
+}

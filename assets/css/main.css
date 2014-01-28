@@ -535,3 +535,18 @@ a:after {
 	background-color: #766148;
 	
 }
+
+/* ==========================================================================
+   Media queries
+   ========================================================================== */
+
+/* Small devices (620px and below) */
+@media (max-width: 620px) { 
+  #headerwrap h1 {
+    font-size: 30px;
+  }
+
+  #headerwrap h4 {
+    font-size: 12px;
+  }
+}
