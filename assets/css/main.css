@@ -542,6 +542,10 @@ a:after {
 
 /* Small devices (620px and below) */
 @media (max-width: 620px) { 
+  #headerwrap {
+    padding-top: 80px;
+  }
+
   #headerwrap h1 {
     font-size: 30px;
   }
